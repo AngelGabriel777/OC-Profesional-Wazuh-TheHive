@@ -13,7 +13,7 @@ Accede al sitio oficial:
 Haz clic en **Download**.
 
 **Imagen:**  
-![Página oficial de VMware](ruta-de-imagen)
+deployment/img/10.jpeg
 
 ---
 
