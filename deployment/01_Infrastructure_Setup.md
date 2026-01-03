@@ -1,79 +1,185 @@
-
-# Guía para Descargar e Instalar VMware Workstation Pro (Versión Gratuita)
-
-Este repositorio contiene una guía detallada para descargar e instalar **VMware Workstation Pro** en su versión gratuita, con imágenes ilustrativas para cada paso.
+# 📘 Guía Completa para Descargar e Instalar VMware Workstation Pro (Gratuito)
+Versión lista para GitHub – incluye espacios para agregar imágenes.
 
 ---
 
-## ✅ Contenido del repositorio
-- `guia_vmware_profesional.docx`: Documento en formato Word con la guía completa.
-- `guia_vmware_profesional.pdf`: Documento en formato PDF.
-- Carpeta `imagenes/`: Capturas de pantalla para cada paso.
+## 📌 1. Ingresar al sitio oficial de VMware
+
+VMware Workstation Pro ahora es gratuito para uso personal.  
+Accede al sitio oficial:
+
+🔗 https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+
+Haz clic en **Download**.
+
+**Imagen:**  
+![Página oficial de VMware](ruta-de-imagen)
 
 ---
 
-## 📋 **Pasos para descargar e instalar VMware Workstation Pro**
+## 📌 2. Iniciar sesión en Broadcom
 
-### **1. Acceder a la página oficial**
-Ingresa al sitio oficial de VMware, donde la versión **Pro** está disponible de forma gratuita:  
-👉 [Página de VMware](https://www.vmware.com/products/desktop-hypervisor/workstationRedirección a Broadcom**
-Serás dirigido a la página de **Broadcom** para iniciar sesión:  
-👉 [Iniciar sesión en Broadcom](https://access.broadcom.com/default/ui/v1 [Registro en Broadcom](https://profile.broadcom.com/web/os personales y crea tu cuenta.  
-!Paso 2
+Serás redirigido al portal de Broadcom:
 
----
+🔗 https://access.broadcom.com/default/ui/v1/signin/
 
-### **3. Acceder a las descargas**
-Una vez iniciada la sesión, haz clic en **My Downloads**.  
-Luego selecciona:  
-**Free Software Downloads Available Here**  
-![aso 3
+Si ya tienes una cuenta, inicia sesión.
 
----
+### ✔ Crear cuenta nueva
 
-### **4. Buscar VMware Workstation Pro**
-En la lista de productos, busca **VMware Workstation Pro**.  
-Selecciona la versión más reciente compatible con tu sistema operativo.  
-Ejemplo:  
-**VMware Workstation Pro 17.6.4 para Windows** (recomendado por estabilidad).  
-!Paso 4
+Si no tienes cuenta:
+
+🔗 https://profile.broadcom.com/web/registration
+
+Llena tus datos y completa el registro.
+
+**Imagen:**  
+![Registro Broadcom](ruta-de-imagen)
 
 ---
 
-### **5. Aceptar términos y condiciones**
-Antes de descargar, haz clic en **Terms and Conditions**.  
-Debes abrir esta página para poder marcar la casilla de aceptación.  
-Regresa y marca **Acepto los términos y condiciones**.  
-!Paso 5
+## 📌 3. Acceder a My Downloads
+
+Después de iniciar sesión, selecciona:
+
+➡️ **My Downloads**
+
+**Imagen:**  
+![Opción My Downloads](ruta-de-imagen)
 
 ---
 
-### **6. Descargar el instalador**
-Haz clic en el ícono de la nube para iniciar la descarga.  
-Completa el formulario (el campo más importante es **ZIP/Postal Code**) y haz clic en **Submit**.  
-Luego vuelve a la página anterior y haz clic nuevamente en el ícono de descarga.  
-![Paso 6](imagenes/paso6.pnglar VMware Workstation Pro**
-Una vez descargado el instalador:
-1. Ábrelo y haz clic en **Aceptar**.
-2. Marca la casilla de aceptación y haz clic en **Next**.
-3. Haz clic en **Next** nuevamente.
-4. **Desactiva** la opción *Join the VMware Customer Experience Improvement Program*.
-5. Haz clic en **Next**.
-6. Haz clic en **Install** y espera unos minutos.
-7. Finalmente, haz clic en **Finish**.  
-![Paso 7](imagenes/p8. Verificar la instalación**
-Abre VMware Workstation Pro, ve a:  
-**Help > About VMware Workstation**  
-para confirmar la versión instalada.  
-![Paso 8](imagenes **Consejo**
-Guarda tu cuenta de Broadcom para futuras actualizaciones.
+## 📌 4. Ir a las descargas gratuitas
+
+En el panel, elige:
+
+➡️ **Free Software Downloads Available Here**
+
+**Imagen:**  
+![Free Software Downloads](ruta-de-imagen)
 
 ---
 
-## 📄 **Licencia**
-Este proyecto se distribuye bajo la licencia MIT.
+## 📌 5. Buscar VMware Workstation Pro
+
+Desplázate hasta encontrar:
+
+➡️ **VMware Workstation Pro**
+
+**Imagen:**  
+![VMware Workstation Pro listado](ruta-de-imagen)
 
 ---
 
-## 🔗 **Descarga directa**
-- [Documento Word](guia_vmware_profesional
+## 📌 6. Elegir el sistema operativo
+
+Selecciona tu sistema operativo:
+
+### ✔ Windows  
+- VMware Workstation Pro 17.x for Windows
+
+### ✔ Linux  
+- VMware Workstation Pro 17.x for Linux
+
+**Versión recomendada:**  
+✔ **17.6.4**
+
+**Imagen:**  
+![Opciones del sistema operativo](ruta-de-imagen)
+
+---
+
+## 📌 7. Aceptar los Términos y Condiciones
+
+Debes aceptar los términos:
+
+1. Clic en **Terms and Conditions**  
+2. Se abrirá una nueva página  
+3. Vuelve atrás y marca **I Accept**
+
+⚠ Importante: Sin abrir el enlace, la casilla no se habilita.
+
+**Imagen:**  
+![Términos y condiciones](ruta-de-imagen)
+
+---
+
+## 📌 8. Iniciar la descarga
+
+Haz clic en el icono de la nube **Download**.
+
+**Imagen:**  
+![Botón de descarga](ruta-de-imagen)
+
+Aparecerá un mensaje → selecciona **Accept**.
+
+---
+
+## 📌 9. Completar el formulario
+
+Antes de descargar, aparecerá un formulario donde lo más importante es:
+
+✔ ZIP/Postal Code  
+✔ Datos básicos requeridos
+
+Presiona:
+
+➡ **Submit**
+
+**Imagen:**  
+![Formulario VMware](ruta-de-imagen)
+
+Luego vuelve a presionar **Download** para iniciar la descarga.
+
+---
+
+# 🖥 Instalación de VMware Workstation Pro
+
+## 📌 10. Ejecutar el instalador
+
+1. Abre el archivo descargado  
+2. Haz clic en **Accept**  
+3. Marca la casilla y presiona **Next**  
+4. Desmarca:
+
+❌ *Join the VMware Customer Experience Improvement Program*
+
+5. Continúa con **Next**
+
+**Imagen:**  
+![Instalador VMware](ruta-de-imagen)
+
+---
+
+## 📌 11. Finalizar la instalación
+
+Haz clic en:
+
+➡ **Install**
+
+Espera unos minutos y luego:
+
+➡ **Finish**
+
+**Imagen:**  
+![Instalación finalizada](ruta-de-imagen)
+
+---
+
+## 📌 12. Verificar la versión de VMware
+
+Dentro del programa:
+
+**Help → About VMware Workstation**
+
+Aquí verás la versión instalada (ejemplo: **17.6.4**).
+
+**Imagen:**  
+![About VMware Workstation](ruta-de-imagen)
+
+---
+
+# ✔ Documento listo para usar
+
+Agrega tus imágenes reemplazando `"ruta-de-imagen"` por tus archivos o URLs.
+
