@@ -13,7 +13,8 @@ Accede al sitio oficial:
 Haz clic en **Download**.
 
 **Imagen:**  
-deployment/img/10.jpeg
+![Texto de la imagen](../img/10.jpeg)
+
 
 ---
 
