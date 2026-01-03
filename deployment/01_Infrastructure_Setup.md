@@ -13,7 +13,7 @@ Accede al sitio oficial:
 Haz clic en **Download**.
 
 **Imagen:**  
-![Texto de la imagen](../img/10.jpeg)
+![Texto de la imagen](img/10.jpeg)
 
 
 ---
