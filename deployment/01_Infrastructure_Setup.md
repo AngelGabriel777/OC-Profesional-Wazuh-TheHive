@@ -1,186 +1,256 @@
-# 📘 Guía Completa para Descargar e Instalar VMware Workstation Pro (Gratuito)
-Versión lista para GitHub – incluye espacios para agregar imágenes.
+# 📘 Guía Completa para Descargar e Instalar VMware Workstation Pro (Versión Gratuita)
+
+Esta guía documenta detalladamente el proceso de descarga e instalación de **VMware Workstation Pro**, ahora gratuito para uso personal.  
+Incluye imágenes, pasos ordenados y recomendaciones para garantizar una instalación correcta.
 
 ---
 
-## 📌 1. Ingresar al sitio oficial de VMware
+## 📑 Tabla de Contenidos
+1. [Acceso a la página oficial](#1-acceso-a-la-página-oficial)
+2. [Inicio de sesión en Broadcom](#2-inicio-de-sesión-en-broadcom)
+3. [Registro en Broadcom](#3-registro-en-broadcom)
+4. [Acceso a My Downloads](#4-acceso-a-my-downloads)
+5. [Descargas gratuitas](#5-descargas-gratuitas)
+6. [Selección de VMware Workstation Pro](#6-selección-de-vmware-workstation-pro)
+7. [Elección del sistema operativo](#7-elección-del-sistema-operativo)
+8. [Selección de versión](#8-selección-de-versión)
+9. [Aceptación de términos](#9-aceptación-de-términos)
+10. [Descarga del instalador](#10-descarga-del-instalador)
+11. [Confirmación de descarga](#11-confirmación-de-descarga)
+12. [Formulario requerido](#12-formulario-requerido)
+13. [Inicio de descarga final](#13-inicio-de-descarga-final)
+14. [Instalación del programa](#14-instalación-del-programa)
+15. [Verificar la instalación](#15-verificar-la-instalación)
 
-VMware Workstation Pro ahora es gratuito para uso personal.  
-Accede al sitio oficial:
+---
+
+---
+
+# 🟦 1. Acceso a la página oficial
+
+VMware Workstation Pro está disponible de forma gratuita para uso personal.  
+Accede al enlace oficial:
 
 🔗 https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 
-Haz clic en **Download**.
-
-**Imagen:**  
-![Texto de la imagen](img/10.jpeg)
-
+![Imagen 1](img/1.jpeg)
 
 ---
 
-## 📌 2. Iniciar sesión en Broadcom
+# 🟦 2. Inicio de sesión en Broadcom
 
-Serás redirigido al portal de Broadcom:
+Serás redirigido automáticamente al portal de Broadcom:
 
 🔗 https://access.broadcom.com/default/ui/v1/signin/
 
-Si ya tienes una cuenta, inicia sesión.
+Aquí debes iniciar sesión con tu cuenta.
 
-### ✔ Crear cuenta nueva
+![Imagen 2](img/2.jpeg)
 
-Si no tienes cuenta:
+---
+
+# 🟦 3. Registro en Broadcom
+
+Si no tienes una cuenta, regístrate en:
 
 🔗 https://profile.broadcom.com/web/registration
 
-Llena tus datos y completa el registro.
+Completa el formulario con tus datos personales.
 
-**Imagen:**  
-![Registro Broadcom](ruta-de-imagen)
+![Imagen 23](img/23.jpeg)
 
 ---
 
-## 📌 3. Acceder a My Downloads
+# 🟦 4. Acceso a My Downloads
 
-Después de iniciar sesión, selecciona:
+Una vez dentro del panel principal, selecciona:
 
 ➡️ **My Downloads**
 
-**Imagen:**  
-![Opción My Downloads](ruta-de-imagen)
+![Imagen 3](img/3.jpeg)
 
 ---
 
-## 📌 4. Ir a las descargas gratuitas
+# 🟦 5. Descargas gratuitas
 
-En el panel, elige:
+Dentro del panel de descargas, selecciona:
 
-➡️ **Free Software Downloads Available Here**
+➡️ **Free Software Downloads Available HERE**
 
-**Imagen:**  
-![Free Software Downloads](ruta-de-imagen)
+![Imagen 14](img/14.jpeg)
 
 ---
 
-## 📌 5. Buscar VMware Workstation Pro
+# 🟦 6. Selección de VMware Workstation Pro
 
-Desplázate hasta encontrar:
+Busca y selecciona:
 
 ➡️ **VMware Workstation Pro**
 
-**Imagen:**  
-![VMware Workstation Pro listado](ruta-de-imagen)
+![Imagen 16](img/16.jpeg)
 
 ---
 
-## 📌 6. Elegir el sistema operativo
+# 🟦 7. Elección del sistema operativo
 
-Selecciona tu sistema operativo:
+Selecciona el sistema operativo en el que deseas instalar VMware Workstation Pro.  
+En este caso:
 
-### ✔ Windows  
-- VMware Workstation Pro 17.x for Windows
+➡️ *VMware Workstation Pro 17.0 for Windows*
 
-### ✔ Linux  
-- VMware Workstation Pro 17.x for Linux
-
-**Versión recomendada:**  
-✔ **17.6.4**
-
-**Imagen:**  
-![Opciones del sistema operativo](ruta-de-imagen)
+![Imagen 17](img/17.jpeg)
 
 ---
 
-## 📌 7. Aceptar los Términos y Condiciones
+# 🟦 8. Selección de versión
 
-Debes aceptar los términos:
+Se recomienda instalar la versión más reciente y estable:
 
-1. Clic en **Terms and Conditions**  
-2. Se abrirá una nueva página  
-3. Vuelve atrás y marca **I Accept**
+➡️ **Versión 17.6.4**
 
-⚠ Importante: Sin abrir el enlace, la casilla no se habilita.
-
-**Imagen:**  
-![Términos y condiciones](ruta-de-imagen)
+![Imagen 18](img/18.jpeg)
 
 ---
 
-## 📌 8. Iniciar la descarga
+# 🟦 9. Aceptación de términos
 
-Haz clic en el icono de la nube **Download**.
+Antes de descargar, haz clic en:
 
-**Imagen:**  
-![Botón de descarga](ruta-de-imagen)
+➡️ **Terms and Conditions**
 
-Aparecerá un mensaje → selecciona **Accept**.
+Debes abrir el documento para habilitar la casilla de aceptación.
 
----
-
-## 📌 9. Completar el formulario
-
-Antes de descargar, aparecerá un formulario donde lo más importante es:
-
-✔ ZIP/Postal Code  
-✔ Datos básicos requeridos
-
-Presiona:
-
-➡ **Submit**
-
-**Imagen:**  
-![Formulario VMware](ruta-de-imagen)
-
-Luego vuelve a presionar **Download** para iniciar la descarga.
+![Imagen 19](img/19.jpeg)
 
 ---
 
-# 🖥 Instalación de VMware Workstation Pro
+# 🟦 10. Descarga del instalador
 
-## 📌 10. Ejecutar el instalador
+Desplázate hacia abajo y selecciona el icono de **descarga (nube)**.
 
-1. Abre el archivo descargado  
-2. Haz clic en **Accept**  
-3. Marca la casilla y presiona **Next**  
-4. Desmarca:
+![Imagen 20](img/20.jpeg)
+
+---
+
+# 🟦 11. Confirmación de descarga
+
+Se mostrará un mensaje donde debes aceptar:
+
+➡️ **Accept**
+
+![Imagen 21](img/21.jpeg)
+
+---
+
+# 🟦 12. Formulario requerido
+
+Antes de iniciar la descarga final, aparecerá un formulario.  
+Dato obligatorio:
+
+✔ ZIP / Postal Code  
+
+Luego haz clic en **Submit**.
+
+![Imagen 22](img/22.jpeg)
+
+---
+
+# 🟦 13. Inicio de descarga final
+
+Después de enviar el formulario, regresarás a la pantalla anterior.  
+Haz clic nuevamente en el icono de descarga.
+
+![Imagen 4](img/4.jpeg)
+
+---
+
+# 🟦 14. Instalación del programa
+
+Una vez descargado el instalador, ejecútalo.  
+A continuación, sigue estos pasos:
+
+---
+
+## ✔ Aceptar condiciones iniciales
+
+![Imagen 5](img/5.jpeg)
+
+---
+
+## ✔ Aceptar nuevamente
+
+![Imagen 6](img/6.jpeg)
+
+---
+
+## ✔ Marcar la casilla de conformidad
+
+![Imagen 7](img/7.jpeg)
+
+---
+
+## ✔ Continuar con Next
+
+![Imagen 8](img/8.jpeg)
+
+---
+
+## ✔ Desactivar envío de datos
+
+Desmarca la opción:
 
 ❌ *Join the VMware Customer Experience Improvement Program*
 
-5. Continúa con **Next**
-
-**Imagen:**  
-![Instalador VMware](ruta-de-imagen)
+![Imagen 9](img/9.jpeg)
 
 ---
 
-## 📌 11. Finalizar la instalación
+## ✔ Configuración adicional
+
+Desactiva la segunda casilla y selecciona **Next**.
+
+![Imagen 10](img/10.jpeg)
+
+---
+
+## ✔ Instalar el programa
 
 Haz clic en:
 
-➡ **Install**
+➡️ **Install**
 
-Espera unos minutos y luego:
-
-➡ **Finish**
-
-**Imagen:**  
-![Instalación finalizada](ruta-de-imagen)
+![Imagen 11](img/11.jpeg)
 
 ---
 
-## 📌 12. Verificar la versión de VMware
+## ✔ Finalizar instalación
 
-Dentro del programa:
+Haz clic en:
 
-**Help → About VMware Workstation**
+➡️ **Finish**
 
-Aquí verás la versión instalada (ejemplo: **17.6.4**).
-
-**Imagen:**  
-![About VMware Workstation](ruta-de-imagen)
+![Imagen 12](img/12.jpeg)
 
 ---
 
-# ✔ Documento listo para usar
+# 🟦 15. Verificar la instalación
 
-Agrega tus imágenes reemplazando `"ruta-de-imagen"` por tus archivos o URLs.
+Una vez abierto VMware Workstation Pro, verifica la versión instalada:
 
+➡ **Help → About VMware Workstation**
+
+![Imagen 13](img/13.jpeg)
+
+---
+
+# 🎉 Instalación completada
+
+Ya tienes VMware Workstation Pro instalado y listo para usar en su versión gratuita.
+
+Si deseas, puedo:
+- Crear un README aún más profesional para todo tu proyecto  
+- Añadir estilos avanzados  
+- Generar versión PDF  
+- Crear índices por secciones para cada herramienta del SOC  
+
+¿Quieres continuar con eso?
